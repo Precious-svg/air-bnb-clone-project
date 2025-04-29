@@ -42,3 +42,8 @@ They test websites and applications and making sure they are up to standards and
 They are important in the successfull deployment and ensure that users have good experience when interacting with websites and appliactions by identifying bugs and mistakes before the release of the project to the public.
 
 ### Product Owners
+They act as a bridge between stakeholders and the development team.
+Their responsible for identifying the key features of a project, customer needs and ensure it is integrated and make sure that the project aligns with the goals and overall business strategy
+ ### Scrum Master
+
+ They are part of the Agile framework and facilate communication and collaboration between members of the team in way that facilitates self-organization of the team
