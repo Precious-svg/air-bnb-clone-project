@@ -11,12 +11,16 @@
 ### Detailed description of primary pages
 |  Property Listing view       | Listing Detailed View        |  Simple Checkout View        |
 |------------------------------|------------------------------|------------------------------|
+| It contains a property card  |This is a page dedicated to   | This pages shows a summary   |
+|that shows key details about  |each property and contains    | the property of choice and   |
+|the property.                 |more elaborate details and    |other services the user chose |
+|                              |features to persuade the custo|to purchase, the total cost   |
+|                              |mer to choose that property.  |and a button to proceed with  |
+|                              |Such as the presence of a pool| payment.                     |
+|                              |or close proximity to areas of|                              |
+|                              | interests.                   |                              |
 |                              |                              |                              |
 |                              |                              |                              |
-|                              |                              |                              |
-|                              |                              |                              |
-
-  
 ### Color List
 1.Primary color : Green(#34967C)
 2. Secondary Color: Black(#222222), yellow(#FFA800).
