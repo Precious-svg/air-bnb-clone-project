@@ -18,3 +18,10 @@ Font-color: light-Grey(*#7B7B7B), black(#161117)
 -It provided a visual guide and makes the project development faster.
 
 ##Project Roles and Responsibilities
+
+###Project Managers
+ They are responsible for overseeing the completion of a prohect, from the period of planning and organinzing till the final product of the project is ready
+ They ensure that the project is within the timeline, budget and resources provided
+
+###Frontend developers
+T
