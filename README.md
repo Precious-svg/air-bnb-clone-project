@@ -8,6 +8,14 @@
 - It should be responsive and accessible across all screens and easy to use by the customer/user.
 - The color palette should be clean and enaging but not distracting or harsh so as to take into considertaion users with needs.
 
+### Detailed description of primary pages
+|  Property Listing view       | Listing Detailed View        |  Simple Checkout View        |
+|------------------------------|------------------------------|------------------------------|
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+|                              |                              |                              |
+
   
 ### Color List
 1.Primary color : Green(#34967C)
