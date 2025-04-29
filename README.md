@@ -1,6 +1,14 @@
 # air-bnb-clone-project
 ## UI\UX Design Planning
 
+### GOALS AND KEY FEATURES
+-Log in or sign up page and sign in page for existing users. User should also be able to directly use their google mail or other social media platorm to sign in.
+- Users who don't want to create an account should still be bale to navigate and use the page and have a way to track information conecrning any property that they pay to rent
+- There should be a visually appealing main page that contains all the information a user will needs and a way to navigate to other sections and pages of the website.
+- It should be responsive and accessible across all screens and easy to use by the customer/user.
+- The color palette should be clean and enaging but not distracting or harsh so as to take into considertaion users with needs.
+
+  
 ### Color List
 1.Primary color : Green(#34967C)
 2. Secondary Color: Black(#222222), yellow(#FFA800).
