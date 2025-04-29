@@ -21,6 +21,13 @@
 |                              | interests.                   |                              |
 |                              |                              |                              |
 |                              |                              |                              |
+
+
+### Importance of a user-friendly design in a booking system.
+-To promote easy navigation and ability to find information and mitigate the risk of a user getting frustrated and quiting half-way.
+-To promote and increase sales.
+-To help with building credibility in relation to the website and its associated company and business.
+
 ### Color List
 1.Primary color : Green(#34967C)
 2. Secondary Color: Black(#222222), yellow(#FFA800).
