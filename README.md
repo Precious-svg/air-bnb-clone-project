@@ -17,11 +17,18 @@ Font-color: light-Grey(*#7B7B7B), black(#161117)
 -This provide smoothness and ease of writing th code and design by the software developer as all he/she need to do is to refer to the file that contins the deign properties listed out
 -It provided a visual guide and makes the project development faster.
 
-##Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
-###Project Managers
+### Project Managers
  They are responsible for overseeing the completion of a prohect, from the period of planning and organinzing till the final product of the project is ready
  They ensure that the project is within the timeline, budget and resources provided
 
-###Frontend developers
-T
+### Frontend developers
+They work with the user-facing aspect of the website. They ensure smooth and pleasant interaction between the user and the website interface.
+
+
+### Backend Developers
+They work on the server side of the application, that users don't directly interact with.
+
+### Designers
+They create enganging and user friendly application, making user experience creative, engaging and satisfactory
