@@ -32,3 +32,13 @@ They work on the server side of the application, that users don't directly inter
 
 ### Designers
 They create enganging and user friendly application, making user experience creative, engaging and satisfactory
+
+### DevOps Engineer
+They act like a bridge between IT and Software devlopment. 
+They ensure reliability and security during deployment and use of applications
+
+### QA Testers
+They test websites and applications and making sure they are up to standards and meet certain requirements.
+They are important in the successfull deployment and ensure that users have good experience when interacting with websites and appliactions by identifying bugs and mistakes before the release of the project to the public.
+
+### Product Owners
