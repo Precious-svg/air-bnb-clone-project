@@ -58,3 +58,8 @@ Their responsible for identifying the key features of a project, customer needs 
  The navbars text should provide enough information that lets the user become aware of the overall information it expects to see in the webpage it will be directed to.
 
  ### Property Cards
+ The property cards should be engaging and accessible, the layout should stand out and yet still blend with the flow of the page. The property card on the main page should conatins all the major details that a user or customer needs to make a decison to determine if it fits with what they want such a sthe locatio, price, type of property, how many rooms, how many sleeps, the rating and price and an engaing picture to convince the customer that they fit in with what they want. They should be clicakable and link to page that then conatins more, extensive and other additional details to sell the property to the customer.
+
+ ### Footer
+
+ The footer will contain information and links to webpages that contains information they may want or need but not necessarily require such as information about the company that owns the website, policies, cookie policies, terms of services. It should be easy to read when focused on but not too colorful to distract the customer from the main details of the page. It can contain the companies other social platforms or networks and user names, conatcting customer care or AI agent meant to provide help or assistance if required.
