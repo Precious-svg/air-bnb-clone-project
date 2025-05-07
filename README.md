@@ -33,7 +33,7 @@
 2. Secondary Color: Black(#222222), yellow(#FFA800).
 3. Shimmer: White(#FDFDFD)
 
-### Typography
+## Typography
 Font-Family: Source Sans Pro, Quicksand
 Font-Size: 18px, 19px, 17px, 22px, 50px
 Font-weight: 500, 600, 700
