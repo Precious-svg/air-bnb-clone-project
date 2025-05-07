@@ -76,7 +76,7 @@ Their responsible for identifying the key features of a project, customer needs 
  They are part of the Agile framework and facilate communication and collaboration between members of the team in way that facilitates self-organization of the team
 
 
- ## UI COMPONENT PATTERNS
+ ## UI Component Patterns
 
  ### NavBars
  The navbars would be responsible for linking the main page to specific webpages that contains specific information that are useful to the customer. The navbars will be interactive and easy to locate but not to distracting that it will prevent the customers from absorbing important information on the pages that will improve their decision to rent a room, house, villas or any type of accomodation offerred on the website.
