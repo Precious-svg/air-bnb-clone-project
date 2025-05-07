@@ -1,4 +1,4 @@
-# air-bnb-clone-project
+# airbnb-clone-project
 ## UI\UX Design Planning
 
 ### GOALS AND KEY FEATURES
